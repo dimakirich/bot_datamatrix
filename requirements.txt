@@ -1,5 +1,2 @@
 pylibdmtx
 telebot
-PIL
-io
-logging
